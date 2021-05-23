@@ -1,0 +1,6 @@
+C:\Users\fp3times2\source\repos\SportsClassLibrary2\SportsClassLibrary2\bin\Debug\SportsClassLibrary2.dll
+C:\Users\fp3times2\source\repos\SportsClassLibrary2\SportsClassLibrary2\bin\Debug\SportsClassLibrary2.pdb
+C:\Users\fp3times2\source\repos\SportsClassLibrary2\SportsClassLibrary2\obj\Debug\SportsClassLibrary2.csprojAssemblyReference.cache
+C:\Users\fp3times2\source\repos\SportsClassLibrary2\SportsClassLibrary2\obj\Debug\SportsClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\fp3times2\source\repos\SportsClassLibrary2\SportsClassLibrary2\obj\Debug\SportsClassLibrary2.dll
+C:\Users\fp3times2\source\repos\SportsClassLibrary2\SportsClassLibrary2\obj\Debug\SportsClassLibrary2.pdb
